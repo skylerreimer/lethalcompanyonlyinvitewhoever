@@ -3,10 +3,9 @@
     "version_number": "1.0.1",
     "website_url": "https://discord.gg/RXMYRcJqpW",
     "description": "A mod list for my friends to play lethal company",
-    "dependencies":
-	[
-	"notnotnotswipez-MoreCompany-1.7.6",
-    "sfDesat-Explorations-1.8.1",
-    "Hypick-TooManyCosmetics-3.0.4"
-	]
-}
+    "dependencies": [
+      "notnotnotswipez-MoreCompany-1.7.6",
+      "sfDesat-Explorations-1.8.1",
+      "Hypick-TooManyCosmetics-3.0.4"
+    ]
+  }
