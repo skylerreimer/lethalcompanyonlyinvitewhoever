@@ -1,11 +1,13 @@
 {
     "name": "LethalCompanyOnlyInviteWhoever",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://discord.gg/RXMYRcJqpW",
     "description": "A mod list for my friends to play lethal company",
     "dependencies": [
       "notnotnotswipez-MoreCompany-1.7.6",
       "sfDesat-Explorations-1.8.1",
-      "Hypick-TooManyCosmetics-3.0.4"
+      "Hypick-TooManyCosmetics-3.0.4",
+      "RickArg-Helmet_Cameras-2.1.5",
+      "anormaltwig-LateCompany-1.0.11"
     ]
   }
