@@ -1,3 +1,6 @@
+### 1.2.0
+- Adds Tahu to the mod pack
+
 ### 1.1.0
 - new mods to the pack
     - Adds Helmet cameras and late company.
